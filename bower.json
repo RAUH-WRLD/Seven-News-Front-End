@@ -1,0 +1,17 @@
+{
+  "name": "Seven News",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "MaddMadsen"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
